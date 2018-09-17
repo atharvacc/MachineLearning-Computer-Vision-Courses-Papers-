@@ -22,4 +22,22 @@
 
 [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597)
 
+# Projects for Practice
+
+[OpenAI-CartPole](https://gym.openai.com/envs/CartPole-v0/) 
+
+An easy introduction to reinforecement learning.
+
+[Yeast Classifier](https://github.com/atharvacc/Yeast-classifier)
+
+Practice building a neural network from scratch or use DeepLearning libraries like Keras to expedite process.
+
+[Movie Recommendation System](https://github.com/atharvacc/Coursera-Machine-Learning/tree/master/Machine-learning-ex8)
+
+Practice SVMs
+
+[Pneumonia Detection](https://www.kaggle.com/c/rsna-pneumonia-detection-challenge/kernels?sortBy=hotness&group=everyone&pageSize=20&outputType=Visualization&competitionId=10338)
+
+Practice Computer Vision. This problem is harder. 
+
 
