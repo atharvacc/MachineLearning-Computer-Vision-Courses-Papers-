@@ -5,9 +5,9 @@
 
 [Machine Learning-Coursera](https://www.coursera.org/learn/machine-learning)
 
-[CS 229-On Going](http://cs229.stanford.edu/syllabus.html)
+[CS 229](http://cs229.stanford.edu/syllabus.html)
 
-[ECS171-On Going](http://www.cs.ucdavis.edu/blog/ecs-171-machine-learning/)
+[ECS171](http://www.cs.ucdavis.edu/blog/ecs-171-machine-learning/)
 
 # Research Papers
 [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640.pdf)
