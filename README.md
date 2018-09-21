@@ -22,6 +22,8 @@
 
 [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597)
 
+[Deep Learning using Linear Support Vector Machines](https://arxiv.org/pdf/1306.0239.pdf)
+
 # Projects for Practice
 
 [OpenAI-CartPole](https://gym.openai.com/envs/CartPole-v0/) 
