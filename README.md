@@ -24,6 +24,8 @@
 
 [Deep Learning using Linear Support Vector Machines](https://arxiv.org/pdf/1306.0239.pdf)
 
+[Efficient BackProp](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf)
+
 # Projects for Practice
 
 [OpenAI-CartPole](https://gym.openai.com/envs/CartPole-v0/) 
