@@ -40,6 +40,8 @@ Practice building a neural network from scratch or use DeepLearning libraries li
 
 Practice SVMs
 
+[Creating a Virtual Cell: Predicting Phenotypic and Environmental Characteristics] 
+
 [Pneumonia Detection](https://www.kaggle.com/c/rsna-pneumonia-detection-challenge/kernels?sortBy=hotness&group=everyone&pageSize=20&outputType=Visualization&competitionId=10338)
 
 Practice Computer Vision. This problem is harder. 
