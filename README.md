@@ -5,7 +5,7 @@
 
 [Machine Learning-Coursera](https://www.coursera.org/learn/machine-learning)
 
-[CS 229](http://cs229.stanford.edu/syllabus.html)
+[CS 231n](http://cs231n.stanford.edu/)
 
 [ECS171](http://www.cs.ucdavis.edu/blog/ecs-171-machine-learning/)
 
