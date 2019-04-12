@@ -26,6 +26,10 @@
 
 [Efficient BackProp](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf)
 
+[Hide and Seek] ( https://arxiv.org/abs/1704.04232)
+
+[Seam Carving] (http://www.faculty.idc.ac.il/arik/SCWeb/imret/imret.pdf)
+
 # Projects for Practice
 
 [OpenAI-CartPole](https://gym.openai.com/envs/CartPole-v0/) 
