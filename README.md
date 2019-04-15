@@ -1,13 +1,15 @@
-# MachineLearning+ComputerVision Courses and Papers-
-
+# MachineLearning+ComputerVision Courses and Papers
+Code for projects can be found in my repos. 170 code is made private.
 # Courses 
 [Deep Learning Specialization-Coursera](https://www.coursera.org/specializations/deep-learning)
 
 [Machine Learning-Coursera](https://www.coursera.org/learn/machine-learning)
 
-[CS 231n](http://cs231n.stanford.edu/)
+[ECS171-Machine Learning](http://www.cs.ucdavis.edu/blog/ecs-171-machine-learning/)
 
-[ECS171](http://www.cs.ucdavis.edu/blog/ecs-171-machine-learning/)
+[ECS170-Artificial Intelligence](https://www.cs.ucdavis.edu/blog/ecs-170-artificial-intelligence/)
+
+[ECS174-Computer Vision](https://sites.google.com/a/ucdavis.edu/ecs-174-computer-vision---spring-2019/)
 
 # Research Papers
 [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640.pdf)
