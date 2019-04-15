@@ -11,6 +11,8 @@ Code for projects can be found in my repos. 170 code is made private.
 
 [ECS174-Computer Vision](https://sites.google.com/a/ucdavis.edu/ecs-174-computer-vision---spring-2019/)
 
+[The-data-science-course-complete-data-science-bootcamp-Udemy](https://www.udemy.com/the-data-science-course-complete-data-science-bootcamp/learn/v4/overview)
+
 # Research Papers
 [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640.pdf)
 
